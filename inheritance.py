@@ -1,4 +1,6 @@
 #single inheritance
+
+
 class Employee:
     def emp_id(self,id):
         print("employee id is",id)
